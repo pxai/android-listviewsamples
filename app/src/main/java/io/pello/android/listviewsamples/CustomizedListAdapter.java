@@ -21,7 +21,6 @@ class CustomizedListAdapter extends BaseAdapter {
     private Activity activity;
     private ArrayList<Task> tasks;
 
-
     /**
      * Constructor
      *

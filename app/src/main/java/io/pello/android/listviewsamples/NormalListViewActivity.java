@@ -40,7 +40,6 @@ public class NormalListViewActivity extends AppCompatActivity {
                         subjectList);
 
         ListView listViewSubjects = (ListView) findViewById(R.id.listViewSubjects);
-
         listViewSubjects.setAdapter(listViewAdapter);
 
 
